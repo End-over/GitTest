@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Git项目\GitTest\智慧大棚\智慧大棚\bin\Debug\智慧大棚.exe.config
+C:\Users\lenovo\Desktop\Git项目\GitTest\智慧大棚\智慧大棚\bin\Debug\智慧大棚.exe
+C:\Users\lenovo\Desktop\Git项目\GitTest\智慧大棚\智慧大棚\bin\Debug\智慧大棚.pdb
+C:\Users\lenovo\Desktop\Git项目\GitTest\智慧大棚\智慧大棚\obj\Debug\智慧大棚.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Git项目\GitTest\智慧大棚\智慧大棚\obj\Debug\智慧大棚.Form1.resources
+C:\Users\lenovo\Desktop\Git项目\GitTest\智慧大棚\智慧大棚\obj\Debug\智慧大棚.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Git项目\GitTest\智慧大棚\智慧大棚\obj\Debug\智慧大棚.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Git项目\GitTest\智慧大棚\智慧大棚\obj\Debug\智慧大棚.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Git项目\GitTest\智慧大棚\智慧大棚\obj\Debug\智慧大棚.exe
+C:\Users\lenovo\Desktop\Git项目\GitTest\智慧大棚\智慧大棚\obj\Debug\智慧大棚.pdb
